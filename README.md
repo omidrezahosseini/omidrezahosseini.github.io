@@ -1,6 +1,6 @@
 # Omid Rezahosseini
 
-MD, PhD. Physician-scientist in infectious diseases and clinical epidemiology, based in Denmark.
+MD, PhD. Infectious diseases and clinical epidemiology, Drug and Vaccine Safety, Medical Affairs, based in Denmark.
 
 I work with the CHIP multiomics team at Rigshospitalet on dyslipidemia and multi-omics in people with HIV, using clustering and group-based trajectory modelling. Before that I worked on vaccine safety, transplant immunology and drug safety using Danish registries and cohorts.
 
